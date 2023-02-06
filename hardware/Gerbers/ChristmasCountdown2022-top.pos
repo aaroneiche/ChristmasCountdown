@@ -1,0 +1,27 @@
+### Module positions - created on Wednesday, February 01, 2023 at 10:33:43 PM ###
+### Printed by Pcbnew version (6.0.7-1)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                      PosX       PosY       Rot  Side
+D1        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   124.0000  -108.5000  180.0000  top
+D2        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   144.8000  -108.5000  180.0000  top
+D3        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   155.0725   -91.0300    0.0000  top
+D4        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   134.4000  -108.5000  180.0000  top
+D5        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   155.2000  -108.5000  180.0000  top
+D6        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   144.6725   -91.0300    0.0000  top
+D7        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   165.6000  -108.5000  180.0000  top
+D8        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   134.2725   -91.0300    0.0000  top
+D9        SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   176.0000  -108.5000  180.0000  top
+D10       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   123.8725   -91.0300    0.0000  top
+D11       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   175.8725   -91.0300    0.0000  top
+D12       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   137.0300   -75.6100   28.0000  top
+D14       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   165.4725   -91.0300    0.0000  top
+D15       SK6812MINI       LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm   162.9700   -75.6100  -28.0000  top
+FID1      Fiducial         Fiducial_0.5mm_Mask1mm                   120.0000   -99.5000    0.0000  top
+FID2      Fiducial         Fiducial_0.5mm_Mask1mm                   180.0000   -99.5000    0.0000  top
+J1        Power_In         Hand_solderable_1x2                      150.0000   -72.3780    0.0000  top
+SW1       SW_Push          EVQQ2B03W                                135.0000  -122.0000    0.0000  top
+SW2       SW_Push          EVQQ2B03W                                165.0000  -122.0000    0.0000  top
+U4        Hanger           Hanger                                   150.4000   -67.0000    0.0000  top
+U5        CopperSnowflake  CopperSnowflakeGraphic                   150.0000  -119.5000    0.0000  top
+## End

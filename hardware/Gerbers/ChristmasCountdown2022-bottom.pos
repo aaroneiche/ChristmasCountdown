@@ -1,0 +1,64 @@
+### Module positions - created on Wednesday, February 01, 2023 at 10:33:43 PM ###
+### Printed by Pcbnew version (6.0.7-1)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                                  PosX       PosY       Rot  Side
+BT1       Battery_Cell        BatteryHolder_LINX_BAT-HLD-012-SMT  -177.4250  -100.0000  -90.0000  bottom
+C1        0.1uF               C_0805_2012Metric                   -122.1750  -108.5000  -90.0000  bottom
+C2        0.1uF               C_0805_2012Metric                   -142.4250  -108.2500  -90.0000  bottom
+C3        0.1uF               C_0805_2012Metric                   -142.9250   -91.0000   90.0000  bottom
+C4        0.1uF               C_0805_2012Metric                   -132.6750  -108.5000  -90.0000  bottom
+C5        0.1uF               C_0805_2012Metric                   -157.1750  -108.5000  -90.0000  bottom
+C6        0.1uF               C_0805_2012Metric                   -153.4250   -91.0000   90.0000  bottom
+C7        10uF                C_0805_2012Metric                   -149.8750   -77.2000   90.0000  bottom
+C8        0.1uF               C_0805_2012Metric                   -168.9100  -108.7100  -90.0000  bottom
+C9        0.1uF               C_0805_2012Metric                   -163.6750   -91.0000   90.0000  bottom
+C10       0.1uF               C_0805_2012Metric                   -175.5140  -110.4900  180.0000  bottom
+C11       0.1uF               C_0805_2012Metric                   -173.6750   -91.0000   90.0000  bottom
+C12       0.1uF               C_0805_2012Metric                   -125.6750   -91.0000   90.0000  bottom
+C13       0.1uF               C_0805_2012Metric                   -138.9250   -76.5000   90.0000  bottom
+C14       10uf                C_0805_2012Metric                   -156.8750   -77.2000  -90.0000  bottom
+C15       0.1uF               C_0805_2012Metric                   -164.9250   -77.0000   90.0000  bottom
+C16       0.1uF               C_0805_2012Metric                   -132.4250   -91.0000   90.0000  bottom
+C17       0.1uF               C_0805_2012Metric                   -162.0600  -104.3500    0.0000  bottom
+C18       0.1uF               C_0805_2012Metric                   -138.1760  -105.1560    0.0000  bottom
+C19       4pF                 R_0805_2012Metric                   -151.6750  -104.3500  180.0000  bottom
+C20       4pF                 R_0805_2012Metric                   -155.1750  -104.3500    0.0000  bottom
+C21       0.1uF               C_0805_2012Metric                   -168.9750  -104.5500    0.0000  bottom
+C22       0.1uF               C_0805_2012Metric                   -141.7320  -118.3640   90.0000  bottom
+C23       10uf                C_0805_2012Metric                   -141.7320  -124.4600   90.0000  bottom
+C24       0.1uf               C_0805_2012Metric                   -139.7000  -124.4600   90.0000  bottom
+C25       0.1uF               C_0805_2012Metric                   -148.6408  -105.8672   90.0000  bottom
+D13       Red                 LED_0805_2012Metric                 -148.6662   -80.4418    0.0000  bottom
+FID3      Fiducial            Fiducial_0.5mm_Mask1mm              -132.5000   -78.6000  180.0000  bottom
+FID4      Fiducial            Fiducial_0.5mm_Mask1mm              -167.6000   -78.7000  180.0000  bottom
+J2        Conn_01x01_Female   PinSocket_1x01_P2.54mm_Vertical     -173.9200   -86.1900  -60.0000  bottom
+J3        Conn_01x01_Female   PinSocket_1x01_P2.54mm_Vertical     -171.1600   -82.2400  -50.0000  bottom
+J4        Conn_01x01_Female   PinSocket_1x01_P2.54mm_Vertical     -171.1600  -117.7600  -130.0000  bottom
+J5        Conn_01x01_Female   PinSocket_1x01_P2.54mm_Vertical     -173.9200  -113.8100  -120.0000  bottom
+J6        Conn_01x01_Female   PinSocket_1x01_P2.54mm_Vertical     -128.8400   -82.2400   50.0000  bottom
+J8        CLK                 PinSocket_1x01_P2.54mm_Vertical     -126.0800   -86.1900   60.0000  bottom
+J10       TONE                PinSocket_1x01_P2.54mm_Vertical     -126.0800  -113.8100  -60.0000  bottom
+J13       LED                 PinSocket_1x01_P2.54mm_Vertical     -128.8400  -117.7600  -50.0000  bottom
+MOSFET1   SSM3J334R           SSM3J334R                           -145.0100   -77.0700  180.0000  bottom
+Q1        BC817               SOT-23                              -148.1750  -100.0500    0.0000  bottom
+Q2        BC817               SOT-23                              -152.3750  -100.0500    0.0000  bottom
+R1        75_Ohm              R_0805_2012Metric                   -156.1750   -80.4418  180.0000  bottom
+R2        4.7k                R_0805_2012Metric                   -153.1625  -112.0000  180.0000  bottom
+R3        4.7k                R_0805_2012Metric                   -149.5000  -112.0000    0.0000  bottom
+R4        10k                 R_0805_2012Metric                   -155.8750  -112.7000  -90.0000  bottom
+R5        10k                 R_0805_2012Metric                   -152.1750   -97.3500  180.0000  bottom
+R6        10k                 R_0805_2012Metric                   -148.3750   -97.3500  180.0000  bottom
+R7        10k                 R_0805_2012Metric                   -146.6750  -112.7000  -90.0000  bottom
+R8        10k                 R_0805_2012Metric                   -166.9034  -111.5822  180.0000  bottom
+R9        10k                 R_0805_2012Metric                   -139.5730  -118.3640  -90.0000  bottom
+R10       10k                 R_0805_2012Metric                   -159.4104  -121.1326  180.0000  bottom
+R11       10k                 R_0805_2012Metric                   -140.7160  -121.3358    0.0000  bottom
+S1        KMR621NGLFS         SW_KMR621NGLFS                      -162.0000  -100.0000  -90.0000  bottom
+S2        KMR621NGLFS         SW_KMR621NGLFS                      -138.0000  -100.0000  -90.0000  bottom
+U1        XC6220B331MR-G      XC6220B331MR-G                      -153.1750   -77.1000    0.0000  bottom
+U2        ESP32-C3-MINI-1-N4  XCVR_ESP32-C3-MINI-1-N4             -150.0000  -124.4600    0.0000  bottom
+U3        PCF85363ATL/AX      PCF85363ATL_AX                      -151.2750  -109.0000  180.0000  bottom
+X1        PKMCS0909E4000-R1   PKMCS0909E4000-R1                   -121.1940  -100.0000   90.0000  bottom
+Y1        7pf                 CM8V-T1A-Crystal                    -151.2200  -106.4300   90.0000  bottom
+## End

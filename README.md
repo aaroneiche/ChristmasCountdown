@@ -47,3 +47,6 @@ The Piezo buzzer does not currently do anything. I have run some tests where I c
 
 Taking advantage of the Interact HTML BOM, there's a component placement page included in this repo (`ibom.html`)
 
+## What about Wifi?!?!
+
+Yes, the onboard chip has support for Wifi. Which means that you could set the time automatically using NTP. And you could change settings on a webpage even! I have written some code to support these features, and when they're polished I will be making them available. For now, Christmas countdown must be programmed using a couple of buttons and your cunning.
